@@ -1,12 +1,12 @@
 # Movie-Recommendation
-This a simple movie recommendation application, built on the stream lit app frame work and that uses machinelearning techniques like tf-idf, Cosin Similarity and K-Nearest Neighbor to generate movie reccomendations. 
+This is a simple movie recommendation application, built with Streamlit framework and<br> uses machine learning techniques like TF-IDF, Cosine Similarity and K-Nearest Neighbor<br>to generate movie recommendations. 
 
-streamlit-app.py 
-Contains the code for the streamlit app 
+streamlit-app.py<br> 
+Contains the code for the streamlit framework
 
-prerpocessing.ipynb
-Contains the code for processing data and saving it to .csv files that the streamlit 
-app can use when generating reccomendations. 
+prerpocessing.ipynb<br>
+Contains the code for processing the movie data and then saving it to .csv files.<br> 
+These files are then used in the app generate reccomendations. 
 
-To access the app use this link: https://movie-kernel.streamlit.app/
+To access the app use this link: https://movie-kernel.streamlit.app/<br>
 (If the app is down it will take about 1 minute to launch)
